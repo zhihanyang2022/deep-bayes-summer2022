@@ -4,3 +4,5 @@ Slides on Bayesian + Deep Learning
   - Lingering questions:
     - Relationship between generalization, inductive bias, marginal likelihood and bias-and-variance
     - How to interpret MC dropout?
+- Week 2: deep ensembles as approximate Bayesian inference
+  - Very interesting perspective alongside MCMC and deterministic methods (e.g., variational inference)
