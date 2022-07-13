@@ -6,3 +6,6 @@
     - How to interpret MC dropout?
 - Week 2: deep ensembles as approximate Bayesian inference
   - Very interesting perspective alongside MCMC and deterministic methods (e.g., variational inference)
+- Week 3: weight uncertainty in neural networks
+  - Fully factorized approximate posterior obtained via variational inference
+  - Connection to Thompson Sampling for contextual multi-armed bandit
