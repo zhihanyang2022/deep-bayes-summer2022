@@ -14,3 +14,4 @@ Potential papers:
 - Rethinking parameter counting in deep models: effective dimensionality revisited (https://arxiv.org/pdf/2003.02139.pdf)
 - A scalable laplace approximation for neural networks (https://openreview.net/pdf?id=Skdvd2xAZ)
 - Bayesian learning via stochastic gradient langevin dynamics 
+- Gradient Estimation Using Stochastic Computation Grap
