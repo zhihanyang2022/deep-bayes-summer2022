@@ -11,6 +11,7 @@
   - Connection to Thompson Sampling for contextual multi-armed bandit
 - Week 4: subspace inference & mode connectivity of deep neural networks
 - Week 5: an introduction to the auto-encoding variational bayes algorithm
+- Week 6: Gaussian Mixture VAE and Variational RNN
 
 Potential papers:
 - Rethinking parameter counting in deep models: effective dimensionality revisited (https://arxiv.org/pdf/2003.02139.pdf)
