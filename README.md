@@ -16,7 +16,7 @@
   - VRNN with bidirectional LSTM to summarize observations both earlier and later
   - Connection between VRNN and Hidden Markov Model
   - Discrete latent variables might allow for tight ELBO? But is this better? See [Tighter Variational Bounds are Not Necessarily Better](https://proceedings.mlr.press/v80/rainforth18b.html)
-  - VRNN + random variable that takes the same value across time
+  - VRNN + random variable that takes the same value across time; similar to attention?
   
 Potential papers:
 - Rethinking parameter counting in deep models: effective dimensionality revisited (https://arxiv.org/pdf/2003.02139.pdf)
