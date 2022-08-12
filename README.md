@@ -11,8 +11,13 @@
   - Connection to Thompson Sampling for contextual multi-armed bandit
 - Week 4: subspace inference & mode connectivity of deep neural networks
 - Week 5: an introduction to the auto-encoding variational bayes algorithm
-- Week 6: Gaussian Mixture VAE and Variational RNN
-
+- Week 6: Gaussian Mixture VAE and Variational RNN; some interesting thoughts:
+  - VAE + mixed-effect (who wrote this digit)
+  - VRNN with bidirectional LSTM to summarize observations both earlier and later
+  - Connection between VRNN and Hidden Markov Model
+  - Discrete latent variables might allow for tight ELBO? But is this better? See [Tighter Variational Bounds are Not Necessarily Better](https://proceedings.mlr.press/v80/rainforth18b.html)
+  - VRNN + random variable that takes the same value across time
+  
 Potential papers:
 - Rethinking parameter counting in deep models: effective dimensionality revisited (https://arxiv.org/pdf/2003.02139.pdf)
 - A scalable laplace approximation for neural networks (https://openreview.net/pdf?id=Skdvd2xAZ)
