@@ -17,9 +17,11 @@
   - Connection between VRNN and Hidden Markov Model
   - Discrete latent variables might allow for tight ELBO? But is this better? See [Tighter Variational Bounds are Not Necessarily Better](https://proceedings.mlr.press/v80/rainforth18b.html)
   - VRNN + random variable that takes the same value across time; similar to attention?
+- Week 7: Bayesian learning via stochastic gradient langevin dynamics
   
+Tutorial on Auto-Encoding Variational Bayes: https://arxiv.org/pdf/2208.07818.pdf
+
 Potential papers:
 - Rethinking parameter counting in deep models: effective dimensionality revisited (https://arxiv.org/pdf/2003.02139.pdf)
 - A scalable laplace approximation for neural networks (https://openreview.net/pdf?id=Skdvd2xAZ)
-- Bayesian learning via stochastic gradient langevin dynamics 
 - Gradient Estimation Using Stochastic Computation Graph
